@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma seleção dos meus proje
 
 ## 👨‍💼 Sobre mim
 
-Atualmente atuo na área logística, com experiência em Centro de Distribuição e gestão de pessoas. Estou em transição para a área de Dados, desenvolvendo habilidades em ferramentas como Excel, Google Planilhas, MySQL e Power BI, buscando aplicar minha vivência prática em análises de dados e otimização de processos.
+Atualmente na área logística, com experiência em Centro de Distribuição e gestão de pessoas. Estou em transição para a área de Dados, desenvolvendo habilidades em ferramentas como Excel, Google Planilhas, MySQL e Power BI, buscando aplicar minha vivência prática em análises de dados e otimização de processos.
 
 ---
 
